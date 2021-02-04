@@ -1,0 +1,18 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Creating a simple weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "abhiraizada"
+  },
+  "author": "Abhimanyu",
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
